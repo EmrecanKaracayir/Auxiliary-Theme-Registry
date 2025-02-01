@@ -4,7 +4,7 @@ This is a community auxiliary theme registry from \<owner\>.
 
 ### 🔗 Compatibility
 
-The table below showcases the compatibility between different distributions of this registry and their respective supported distributions of [Codemos Modern](https://github.com/Codemos-Inc/Codemos-Modern).
+The table below showcases the compatibility between different distributions of this registry and their respective supported distributions of [Codemos Modern](https://github.com/EmrecanKaracayir/Codemos-Modern).
 
 | Registry Distribution  | Supported CM Distribution |
 | ---------------------- | ------------------------- |
