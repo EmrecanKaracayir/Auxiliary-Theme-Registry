@@ -4,7 +4,7 @@ This is the official and verified auxiliary theme registry from Codemos.
 
 ### 🔗 Compatibility
 
-The table below showcases the compatibility between different distributions of this registry and their respective supported distributions of [Codemos Modern](https://github.com/Codemos-Inc/Codemos-Modern).
+The table below showcases the compatibility between different distributions of this registry and their respective supported distributions of [Codemos Modern](https://github.com/EmrecanKaracayir/Codemos-Modern).
 
 | Registry Distribution | Supported CM Distribution |
 | --------------------- | ------------------------- |
@@ -23,7 +23,7 @@ Add the following entry to your `settings.json` file.
 { // settings.json
   "codemosModern.auxiliaryThemeRegistries": [
     // ...
-    "Codemos-Inc/Auxiliary-Theme-Registry", // Add this line
+    "EmrecanKaracayir/Auxiliary-Theme-Registry", // Add this line
     // ...
   ]
 }
@@ -62,7 +62,7 @@ Individual publishers & themes are listed in the `index.json` file at the root o
 
 <h2 id="rdme-about">📖 About</h2>
 
-Auxiliary theme registries are complementary repositories for the [VS Code](https://github.com/microsoft/vscode) extension [Codemos Modern](https://github.com/Codemos-Inc/Codemos-Modern). Modern is an innovative theme suite/hub for VS Code that helps you configure its look & feel. This repository and many others from the community helps to bring third-party themes from different sources to be used in Modern to give more freedom to its users when configuring VS Code's look & feel. **In short; it is a repository for hosting third-party themes which are then side-loaded to VS Code with the help of the Codemos Modern.**
+Auxiliary theme registries are complementary repositories for the [VS Code](https://github.com/microsoft/vscode) extension [Codemos Modern](https://github.com/EmrecanKaracayir/Codemos-Modern). Modern is an innovative theme suite/hub for VS Code that helps you configure its look & feel. This repository and many others from the community helps to bring third-party themes from different sources to be used in Modern to give more freedom to its users when configuring VS Code's look & feel. **In short; it is a repository for hosting third-party themes which are then side-loaded to VS Code with the help of the Codemos Modern.**
 
 Modern users are able to **access a wide variety of themes** from different sources. The main sources including; extension marketplaces ([VS Marketplace](https://marketplace.visualstudio.com), [Open VSX](https://open-vsx.org/)), GitHub repositories, and unpublished themes. Users only need to subscribe to desired auxiliary theme registries by adding them to Modern's configuration (see [subscription](#subs)) and they will be able to access the themes hosted from those registries.
 
@@ -346,7 +346,7 @@ Updating a registry is very straightforward:
 
 <h2 id="rdme-clog">📋 Change Log</h2>
 
-Changes from the last major release shown below. If you want to see the full change log, visit [CHANGELOG.md](https://github.com/Codemos-Inc/Auxiliary-Theme-Registry/blob/main/CHANGELOG.md).
+Changes from the last major release shown below. If you want to see the full change log, visit [CHANGELOG.md](https://github.com/EmrecanKaracayir/Auxiliary-Theme-Registry/blob/main/CHANGELOG.md).
 
 ### Added
 
@@ -358,10 +358,10 @@ Changes from the last major release shown below. If you want to see the full cha
 
 <h2 id="rdme-contrib">🙌🏼 Contribution</h2>
 
-We are open to any kind of contribution. If you want to contribute to Auxiliary Theme Registry, please join us on [GitHub](https://github.com/Codemos-Inc/Auxiliary-Theme-Registry).
+We are open to any kind of contribution. If you want to contribute to Auxiliary Theme Registry, please join us on [GitHub](https://github.com/EmrecanKaracayir/Auxiliary-Theme-Registry).
 
 <br/>
 
 <h2 id="rdme-license">📜 License</h2>
 
- Codemos Auxiliary Theme Registry is licensed under the [MIT License](https://github.com/Codemos-Inc/Auxiliary-Theme-Registry/blob/main/LICENSE.md).
+ Codemos Auxiliary Theme Registry is licensed under the [MIT License](https://github.com/EmrecanKaracayir/Auxiliary-Theme-Registry/blob/main/LICENSE.md).
